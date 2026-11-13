@@ -30,6 +30,6 @@ I use AI tools like Claude and Cursor every day, but I always check what they pr
 ## Get in touch
 
 - LinkedIn: 
-- Email: 
+- Email: o.demenchenko@gmail.com
 
 *Open to QA and AI testing roles.*
