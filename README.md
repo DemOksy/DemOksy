@@ -29,7 +29,7 @@ I use AI tools like Claude and Cursor every day, but I always check what they pr
 
 ## Get in touch
 
-- LinkedIn: [add link]
-- Email: [add email]
+- LinkedIn: 
+- Email: 
 
 *Open to QA and AI testing roles.*
